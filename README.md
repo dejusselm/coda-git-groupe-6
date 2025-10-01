@@ -1,3 +1,6 @@
-Guide de Survie Etudiant - Orléans 
+Guide de Survie Etudiant - Orléans
 Equipe de Développement:
-Marion POLEWCZYK - développeur 
+Marion POLEWCZYK - développeur
+
+Marine DEJUSSEL - chef de projet
+
